@@ -1,8 +1,8 @@
 # BubbleGame-JS
-Created a game using Javascript
+Created a game using Javascript check it out below.
 
 
-[check it out here ](https://bubblegame-neeljsproject.netlify.app)
+[Check it out here ](https://bubblegame-neeljsproject.netlify.app)
 
 [Github]( https://neels22.github.io/BubbleGame-JS/)
 
