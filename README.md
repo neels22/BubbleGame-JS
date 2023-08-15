@@ -2,4 +2,4 @@
 Created a game using Javascript
 
 
-[check it out](bubblegame-neeljsproject.netlify.app)
+[check it out](https://bubblegame-neeljsproject.netlify.app)
